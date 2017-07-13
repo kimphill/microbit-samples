@@ -1,8 +1,7 @@
 #include "MicroBit.h"
 
 MicroBit uBit;
-
-char URL[] = "https://goo.gl/TlUTF7";
+char URL[] = "https://g.co/kgs/871Bp7";
 const int8_t CALIBRATED_POWERS[] = {-49, -37, -33, -28, -25, -20, -15, -10};
 
 uint8_t advertising = 0;
